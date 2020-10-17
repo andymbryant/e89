@@ -1,2 +1,4 @@
 *.pem
 aws_details.txt
+*.jpg
+*.zip
